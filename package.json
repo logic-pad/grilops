@@ -1,9 +1,14 @@
 {
   "name": "grilops",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "main": "dist/index.es.js",
   "module": "dist/index.es.js",
   "description": "A Grid Logic Puzzle Solver library, using Typescript and z3.",
+  "homepage": "https://github.com/logic-pad/grilops",
+  "repository": {
+    "url": "https://github.com/logic-pad/grilops.git",
+    "type": "git"
+  },
   "keywords": [
     "puzzle",
     "solver",
